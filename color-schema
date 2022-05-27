@@ -4,10 +4,11 @@
 %-----red-green-blue-1-------
 
 
-%-----harvard-crimson------
+%==== Harvard-crimson ====%
 \definecolor{hcr}{rgb}{0.79, 0.0, 0.09}
 
-%----Catalina Blue----
+
+%==== Catalina Blue ====%
 \colorlet{cat}{rgb:red,2.35;green,16.47;blue,47.06}
 
 
@@ -16,7 +17,7 @@
 \definecolor{lg}{HTML}{7CAA2D} %green
 \definecolor{gb}{HTML}{2988BC} %blue
 
-%--TITLES====
+%==== TITLES ====%
 \definecolor{darkbyzantium}{rgb}{0.36, 0.22, 0.33}
 
 \definecolor{arsenic}{rgb}{0.23, 0.27, 0.29}
@@ -27,39 +28,46 @@
 
 \definecolor{cadet}{rgb}{0.33, 0.41, 0.47}
 
-%---halaya ube-----
+
+
+%==== halaya ube ====%
 
 \definecolor{ube}{rgb}{0.4, 0.22, 0.33}
-%--byzantium
 
+
+
+%==== byzantium ====%
 \definecolor{byz}{rgb}{0.44, 0.16, 0.39}
 
 
 
-%--Shamrock green------
+%==== Shamrock green ====%
 \definecolor{sg}{rgb}{0.0, 0.62, 0.38}
 
-%---Pakistan green
+
+%==== Pakistan green ====%
 \definecolor{pg}{rgb}{0.0, 0.4, 0.0}
 
-%-----Crimson Red
+
+%==== Crimson Red ====%
 \definecolor{cr}{rgb}{0.6, 0.0, 0.0}
 
 
-%------Islamic Green
+%==== Islamic Green ====%
 \definecolor{ig}{rgb}{0.0, 0.56, 0.0}
 
 
-%------India Green
+%==== India Green ====%
 \definecolor{ing}{rgb}{0.07, 0.53, 0.03}
 
 
-%- - - - Bronze
+%==== Bronze ====%
 \definecolor{brz}{rgb}{0.8, 0.5, 0.2}
 
-%------oxford blue
+
+%==== oxford blue ====%
 \definecolor{ob}{rgb}{0.0, 0.13, 0.28}
 
-%--------tyrian purple
 
+%==== tyrian purple ====%
 \definecolor{tp}{rgb}{0.4, 0.01, 0.24}
